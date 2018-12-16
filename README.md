@@ -29,3 +29,5 @@ in this case, the uploader will automatically seek:
 Since this is build on my personal project, currently the script is hard coded with zh_Hant, th srt setting, but it should be fairly easy for others to modify for their own usage.
 
 Also note the cells of Excel spreadsheet read by the script, which B8 is currently the ENG Title, and B10+B11+B12 will serve as description.
+
+Lastly the script relies on client_secret.json on the same directory, which can be found following the comment.
